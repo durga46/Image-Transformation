@@ -91,6 +91,8 @@ vi)Image Cropping
 
 
 ### vi)Image Cropping
+![bird](https://user-images.githubusercontent.com/75235704/165681916-16456d02-5f36-4ae5-8601-b2d945b8d9d8.jpg)
+
 <br>
 <br>
 <br>
