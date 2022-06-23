@@ -118,10 +118,6 @@ plt.imshow(cropped_image)
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ### v)Image Rotation
 ![s7](https://user-images.githubusercontent.com/75235704/165688115-6aa08e98-4cf9-418d-94d9-ff86a755754e.png)
