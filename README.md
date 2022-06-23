@@ -94,20 +94,17 @@ plt.imshow(cropped_image)
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ### ii) Image Scaling
 ![s3](https://user-images.githubusercontent.com/75235704/165687648-35862b38-f05d-4d72-9425-36fac80b9152.png)
 <br>
-<br>
-<br>
-<br>
-
 
 ### iii)Image shearing
 ![s4](https://user-images.githubusercontent.com/75235704/165688178-ae23b83c-8730-48be-ae9f-d54b649ceb73.png)
-<br>
-<br>
-<br>
 <br>
 
 ### iv)Image Reflection
