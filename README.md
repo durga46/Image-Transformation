@@ -100,6 +100,8 @@ plt.imshow(cropped_image)
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ### ii) Image Scaling
 ![s3](https://user-images.githubusercontent.com/75235704/165687648-35862b38-f05d-4d72-9425-36fac80b9152.png)
